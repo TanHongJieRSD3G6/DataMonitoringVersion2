@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "622447059841",
+    "firebase_url": "https://datamonitoring-eb226-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "datamonitoring-eb226",
+    "storage_bucket": "datamonitoring-eb226.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622447059841:android:8a76e7c774b3ae5e46fe80",
+        "android_client_info": {
+          "package_name": "com.madassignment.datamonitoring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622447059841-gfqkobgcd1vf4gn8iflls8im7jlfgu2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwIw3-wPWVACrOeMmDH1GP6tS0qmQxuHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622447059841-gfqkobgcd1vf4gn8iflls8im7jlfgu2n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

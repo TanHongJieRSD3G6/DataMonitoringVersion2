@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Data Monitoring</string>
+    <string name="proceedMain">Proceed</string>
+    <string name="backMain">Back</string>
+    <string name="callPhoneChoice">Call Phone</string>
+    <string name="backToMain">Back</string>
+    <string name="censorFireSection">Censor fire section</string>
+    <string name="assistance">Assistance Function</string>
+    <string name="phoneCallInstruction">Make a phone call</string>
+    <string name="personName">Name:</string>
+    <string name="inputPhoneNum">Phone number:</string>
+    <string name="remarks">Remarks:</string>
+    <string name="callNow">Call Now</string>
+    <string name="backToSelection">Back</string>
+    <string name="sendEmail">Send Email</string>
+</resources>

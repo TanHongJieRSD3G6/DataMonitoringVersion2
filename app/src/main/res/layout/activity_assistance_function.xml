@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AssistanceFunction">
+
+    <TextView
+        android:id="@+id/lblAssistanceFunction"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_row="0"
+        android:layout_column="0"
+        android:padding="10dp"
+        android:text="@string/assistance" />
+
+    <Button
+        android:id="@+id/btnCallPhone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_row="1"
+        android:layout_column="1"
+        android:padding="10dp"
+        android:text="@string/callPhoneChoice" />
+
+    <Button
+        android:id="@+id/btnBack2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_row="2"
+        android:layout_column="1"
+        android:padding="10dp"
+        android:text="@string/backToMain" />
+
+</GridLayout>
