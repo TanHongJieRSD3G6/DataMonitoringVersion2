@@ -13,4 +13,5 @@
     <string name="callNow">Call Now</string>
     <string name="backToSelection">Back</string>
     <string name="sendEmail">Send Email</string>
+    <string name="descriptionOccur">The pointed section (orange colour) show that location is fired.</string>
 </resources>
